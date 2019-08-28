@@ -6,7 +6,7 @@
 
 整个数据库的表结构大约如下所示：
 
-![1566905916657](README.assets\1566905916657.png)
+![结构](https://github.com/NigraDezajnoBuroo/StarryValley/raw/Dev/DATABASE/README.assets/1566905916657.png)
 
 ## 评论表（sv_comment）
 
